@@ -1,0 +1,26 @@
+{
+  "name": "tf2025-ai-testing-agents-workshop",
+  "version": "1.0.0",
+  "description": "These are the steps to get ready for the workshop. Please follow them before the workshop.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wopee-io/tf2025-ai-testing-agents-workshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Wopee-io/tf2025-ai-testing-agents-workshop/issues"
+  },
+  "homepage": "https://github.com/Wopee-io/tf2025-ai-testing-agents-workshop#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^24.3.1"
+  },
+  "dependencies": {
+    "@wopee-io/wopee.pw": "^4.19.0"
+  }
+}
