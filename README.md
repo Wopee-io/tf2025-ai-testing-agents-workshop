@@ -21,7 +21,7 @@ These are the steps to get ready for the workshop. Please follow them before the
 - Christmas hat 🧑‍🎄 (mandatory)
 - Admin rights on your laptop
 - Browser (preferably Chrome)
-- Create accounts for: GitHub and Wopee.io
+- Create accounts for: [GitHub](https://github.com/) and [Wopee.io](https://wopee.io/)
 - VS Code with Copilot (free will be enough) 
 - Cursor (optional)
 
