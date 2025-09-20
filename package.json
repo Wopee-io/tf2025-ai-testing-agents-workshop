@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "These are the steps to get ready for the workshop. Please follow them before the workshop.",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "4-Simple-Agent": "npx playwright test experiments/4_Simple-AI-Testing-Agent/run-agent.spec.ts"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Wopee-io/tf2025-ai-testing-agents-workshop.git"
@@ -18,9 +20,16 @@
   "homepage": "https://github.com/Wopee-io/tf2025-ai-testing-agents-workshop#readme",
   "devDependencies": {
     "@playwright/test": "^1.55.0",
-    "@types/node": "^24.3.1"
+    "@types/node": "^24.3.1",
+    "typescript": "^5.9.2"
   },
   "dependencies": {
-    "@wopee-io/wopee.pw": "^4.19.0"
+    "@ai-sdk/azure": "^2.0.32",
+    "@wopee-io/wopee.pw": "^4.19.0",
+    "ai": "^5.0.47",
+    "cli-table3": "^0.6.5",
+    "dotenv": "^17.2.2",
+    "parse5": "^8.0.0",
+    "zod": "^4.1.9"
   }
 }
